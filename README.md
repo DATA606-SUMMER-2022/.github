@@ -1,1 +1,1 @@
-# UMBC Data Science Master Program Capstone for Summer 2022
+# UMBC Data Science Capstone for Summer 2022

@@ -2,4 +2,4 @@
 
 ## DATA606 SUMMER 2022
 
-### Please enjoy great works by students from UMBC Data Science Master Programs.
+### Please enjoy the great works by students from the UMBC Data Science Master Programs.
